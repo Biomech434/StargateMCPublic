@@ -4572,15 +4572,16 @@ items:
     dimensions: []
   '415':
     materialName: APPLIEDENERGISTICS2_TILEBLOCKSKYSTONE
-    amount: 0
-    chance: 0.0
+    amount: 32 
+    chance:80.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60 
+    minListingTime: 1
+    maxPrice: 6000
+    minPrice: 2000
     sellers: []
-    dimensions: []
+    dimensions:
+        -ALL
   '416':
     materialName: APPLIEDENERGISTICS2_TILEBLOCKSKYCHEST
     amount: 0
